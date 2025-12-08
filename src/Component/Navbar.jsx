@@ -31,7 +31,7 @@ function Navbar(props) {
       <Typography variant="h6" sx={{ my: 2 ,width:"100%",paddingTop:"-20px" }}>
         MUI
       </Typography>
-      <hr/>
+   
       <Divider />
       <List>
         {navItems.map((item) => (
